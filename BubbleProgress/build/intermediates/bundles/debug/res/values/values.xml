@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BubblesProgressIndefinite"><attr format="integer|reference" name="bpi_bubble_count"/><attr format="dimension|reference" name="bpi_bubble_side_padding"/><attr format="integer|reference" name="bpi_anim_duration"/><attr format="integer|reference" name="bpi_anim_repeat_count"/><attr format="enum" name="bpi_anim_direction"><enum name="leftToRight" value="0"/><enum name="rightToLeft" value="1"/></attr></declare-styleable>
+</resources>

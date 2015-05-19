@@ -1,0 +1,13 @@
+int attr bpi_anim_direction 0x7f010004
+int attr bpi_anim_duration 0x7f010002
+int attr bpi_anim_repeat_count 0x7f010003
+int attr bpi_bubble_count 0x7f010000
+int attr bpi_bubble_side_padding 0x7f010001
+int id leftToRight 0x7f020000
+int id rightToLeft 0x7f020001
+int[] styleable BubblesProgressIndefinite { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003, 0x7f010004 }
+int styleable BubblesProgressIndefinite_bpi_anim_direction 4
+int styleable BubblesProgressIndefinite_bpi_anim_duration 2
+int styleable BubblesProgressIndefinite_bpi_anim_repeat_count 3
+int styleable BubblesProgressIndefinite_bpi_bubble_count 0
+int styleable BubblesProgressIndefinite_bpi_bubble_side_padding 1
