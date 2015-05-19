@@ -1,2 +1,2 @@
 # BubbleProgressIndefenite
-Bubble Indefenite progress similar to [MONActivityIndicatorView](https://github.com/mownier/MONActivityIndicatorView)
+Bubble Indefenite progress in Android similar to [MONActivityIndicatorView](https://github.com/mownier/MONActivityIndicatorView)
